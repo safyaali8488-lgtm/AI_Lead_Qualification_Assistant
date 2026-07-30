@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ali Ahmed",
+        "company": "ABC Electronics",
+        "message": "We need 500 laptops for our offices within two weeks. Please contact our procurement manager."
+    },
+    {
+        "name": "Sara Khan",
+        "company": "TechNova",
+        "message": "Looking for cloud solutions for our startup. Budget is limited but we want a demo."
+    },
+    {
+        "name": "John Smith",
+        "company": "Global Retail",
+        "message": "Interested in a long-term partnership for our online marketplace."
+    },
+    {
+        "name": "Fatima Noor",
+        "company": "Future School",
+        "message": "Need software for 100 teachers before next semester."
+    },
+    {
+        "name": "Usman Ali",
+        "company": "Small Business Hub",
+        "message": "Can you send pricing details for your services?"
+    },
+    {
+        "name": "Emily Brown",
+        "company": "Healthcare Plus",
+        "message": "Urgently looking for AI solutions for patient management."
+    },
+    {
+        "name": "Ahmed Raza",
+        "company": "Daraz",
+        "message": "Interested in enterprise automation solutions. Budget approved."
+    },
+    {
+        "name": "David Wilson",
+        "company": "RetailOne",
+        "message": "Need inventory optimization software."
+    },
+    {
+        "name": "Ayesha Malik",
+        "company": "EduTech",
+        "message": "Requesting product demonstration for our university."
+    },
+    {
+        "name": "Michael Lee",
+        "company": "Fast Logistics",
+        "message": "Looking to automate warehouse operations immediately."
+    }
+]
